@@ -3,6 +3,7 @@
 [...]
 Well, we did pull through, and we adapted. But now, we're hitting, as I've just described, we're hitting the third replicator point. And this is even more dangerous -- well, it's dangerous again.
 
+Version française
 >Il y a deux réplicateurs sur cette planète. A partir du moment où nos ancêtres, probablement il y a 2,5 millions d'années, par là, ont commencer à imiter, il y avait un nouveau processus de copie. Copie avec variation et sélection. Un nouveau réplicateur était laché sur le monde, et il n'était pas possible -- dès le départ -- il n'était pas possible à l'être humain qui avait laché cette nouvelle créature, de copier juste l'utile, le beau, les choses vraies, et ne pas copier le reste. Alors que leurs cerveau obtenaient un avantage grâce à cette capacité à copier -- allumer des feus, les maintenir en vie, nouvelles techniques de chasses, ce genre de choses -- inévitablement ils copiaient également se mettre des plumes dans les cheveux, porter des habits étranges, ou se paindre le visage, peu importe.
 [...]
 Enfin, nous nous en sommes tirés et nous sommes adaptés (ndt : Blackmore défend que le second réplicateur a failli entrainer la fin de l'espèce, ce qui expliquerait notre unicité sur notre branche d'évolution). Mais maintenant, nous arrivons, comme je l'ai décrit, nous arrivons au point du troisième réplicateur
