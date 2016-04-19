@@ -1,11 +1,12 @@
 #Préambule
 >There are two replicators now on this planet. From the moment that our ancestors, perhaps two and a half million years ago or so, began imitating, there was a new copying process. Copying with variation and selection. A new replicator was let loose, and it could never be -- right from the start -- it could never be that human beings who let loose this new creature, could just copy the useful, beautiful, true things, and not copy the other things. While their brains were having an advantage from being able to copy -- lighting fires, keeping fires going, new techniques of hunting, these kinds of things -- inevitably they were also copying putting feathers in their hair, or wearing strange clothes, or painting their faces, or whatever.
->[...]
->Well, we did pull through, and we adapted. But now, we're hitting, as I've just described, we're hitting the third replicator point. And this is even more dangerous -- well, it's dangerous again.
-Susan Blackmore
-[quote]Il y a deux réplicateurs sur cette planète. A partir du moment où nos ancêtres, probablement il y a 2,5 millions d'années, par là, ont commencer à imiter, il y avait un nouveau processus de copie. Copie avec variation et sélection. Un nouveau réplicateur était laché sur le monde, et il n'était pas possible -- dès le départ -- il n'était pas possible à l'être humain qui avait laché cette nouvelle créature, de copier juste l'utile, le beau, les choses vraies, et ne pas copier le reste. Alors que leurs cerveau obtenaient un avantage grâce à cette capacité à copier -- allumer des feus, les maintenir en vie, nouvelles techniques de chasses, ce genre de choses -- inévitablement ils copiaient également se mettre des plumes dans les cheveux, porter des habits étranges, ou se paindre le visage, peu importe.
 [...]
-Enfin, nous nous en sommes tirés et nous sommes adaptés (ndt : Blackmore défend que le second réplicateur a failli entrainer la fin de l'espèce, ce qui expliquerait notre unicité sur notre branche d'évolution). Mais maintenant, nous arrivons, comme je l'ai décrit, nous arrivons au point du troisième réplicateur[/quote]
+Well, we did pull through, and we adapted. But now, we're hitting, as I've just described, we're hitting the third replicator point. And this is even more dangerous -- well, it's dangerous again.
+
+>Il y a deux réplicateurs sur cette planète. A partir du moment où nos ancêtres, probablement il y a 2,5 millions d'années, par là, ont commencer à imiter, il y avait un nouveau processus de copie. Copie avec variation et sélection. Un nouveau réplicateur était laché sur le monde, et il n'était pas possible -- dès le départ -- il n'était pas possible à l'être humain qui avait laché cette nouvelle créature, de copier juste l'utile, le beau, les choses vraies, et ne pas copier le reste. Alors que leurs cerveau obtenaient un avantage grâce à cette capacité à copier -- allumer des feus, les maintenir en vie, nouvelles techniques de chasses, ce genre de choses -- inévitablement ils copiaient également se mettre des plumes dans les cheveux, porter des habits étranges, ou se paindre le visage, peu importe.
+[...]
+Enfin, nous nous en sommes tirés et nous sommes adaptés (ndt : Blackmore défend que le second réplicateur a failli entrainer la fin de l'espèce, ce qui expliquerait notre unicité sur notre branche d'évolution). Mais maintenant, nous arrivons, comme je l'ai décrit, nous arrivons au point du troisième réplicateur
+
 Susan Blackmore, 'On memes and temes', conférence TED
 https://www.ted.com/talks/susan_blackmore_on_memes_and_temes
 
@@ -36,7 +37,7 @@ L'objectif de cette réflexion porte autour du langage donc. Il s'agirait, sous 
 - Comprendre en quoi le contexte en tant que milieu sélectionnant peu affecter la qualité/l'intensité de l'imitation
 - Corrolaire : Qualifier en quoi il est important/déplorable que nous ne nous "comprenions pas" selon les contextes.
 
-[size=150]Démarche expérimentale[/size]
+# Démarche expérimentale
 Pour tenter de commencer à élaborer une démarche expérimentale, il convient de qualifier les outils scientifiques à disposition.
 
 D'une part, il conviendra d'établir l'état de l'art des outils à la disposition de la discipline, à laquelle il est souvent reproché, à l'instar d'autres théories actuelles (ex : Théorie M), d'être très esthétique mais sans lien concret vérifiable avec la réalité.
@@ -68,7 +69,7 @@ Le logicisme défend (Russel donc, mais avec lui il faut penser également à Wi
 
 L'exercice a des limites, dont une "ultime" qu'on appelle "Théorème d'incomplétude de Godel" qui implique que dans tout langage formel il existe au moins une proposition qui n'est ni conforme, ni non conforme au langage.
 
-[size=150]Posture déontologique[/size]
+# Posture déontologique
 **Sur la mauvaise façon qu'je cause**
 Une hypothèse de travail forte dans cette réflexion est que, à travers le langage, et ma propre utilisation des mots, ce que j'exprime ne sera pas ce qui sera compris.
 A ce titre je considère qu'il serait surréaliste de prendre la posture initiale de savoir formuler correctement la problématique, en concept, en mots, ou en rhétorique. Par l'absurde, une imposture pourrait apparaître plus constructive. 
@@ -93,7 +94,7 @@ Je n'ai pas plus de qualification à parler de memetique. Ma compréhension du s
 
 La seule pertinence que je peux apporter est vis à vis de la "machine", que je connais dans la pratique et dans les projections d'anticipations de ses créateurs (comme Alan Turing) ou de grands auteurs (comme Asimov).
 
-[hr]
+## Point de départ
 
 Voici quelques lectures pour commencer
 
@@ -111,5 +112,4 @@ Plus frais,
 On Meme and Memetics in Language
 https://www.researchgate.net/publication/274076470_On_Memes_and_Memetics_in_Language
 
-[hr]
-[hr][/quote][/quote]
+
